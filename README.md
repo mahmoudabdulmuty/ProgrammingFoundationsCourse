@@ -1,1 +1,1 @@
-# ProgrammingFoundationsCourse
+# Programming Foundations Path
